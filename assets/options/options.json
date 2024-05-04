@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Museos",
+    "icon": "museum"
+  },
+  {
+    "id": 2,
+    "title": "Parques",
+    "icon": "park"
+  },
+  {
+    "id": 3,
+    "title": "Atractivos Turísticos",
+    "icon": "place"
+  },
+  {
+    "id": 4,
+    "title": "Sitios Históricos",
+    "icon": "history_edu"
+  }
+]
